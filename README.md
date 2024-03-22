@@ -2,9 +2,9 @@
 
 | NRP | Name |
 | ------ | ------ |
-|5025211028|Brendan Timothy Manuel|
-|5025221202|Alvin Vincent Oswald Reba|
+|5025221177|Brendan Timothy Mannuel|
+|5025221201|Alvin Vincent Oswald Reba|
 |5025221202|Hilmy Septian Nursyekha|
-|5025211028|Marco Marcello Hugo|
+|5025221102|Marco Marcello Hugo|
 
 
